@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationServicesExample</string>
+    <string name="exit">Exit</string>
+    <string name="permission_error">Permission error</string>
+    <string name="request_permission">Grand permission</string>
+    <string name="permission_error_message">Application needs Location permission to fully work, please grant permission.</string>
+</resources>
